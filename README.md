@@ -8,9 +8,3 @@ Tenho como objetivo transformar cada aprendizado em projetos reais ao longo da m
 
 </p>
 
-## ⭐ GitHub Stats
-
-<a href="https://github.com/Victor2001-Dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
-**
