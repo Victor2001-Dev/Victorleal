@@ -1,4 +1,4 @@
-<h1 align="left"> 🌐 Victor Leal Sousa</h1>
+<h1 align="left">Victor Leal Sousa</h1>
 
 ###
 
